@@ -1,0 +1,10 @@
+* body {
+  font-family: sans-serif;
+  background-color: rgb(241, 67, 67);
+}
+
+h1,
+p {
+  text-align: center;
+  font-size: bold;
+}
